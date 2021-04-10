@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/flag.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/box.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/klikattuboxi.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/miina.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/klikattumiina.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/hammastys.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/havio.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/hymy.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/voitto.png</File>
+    <File>C:/Users/ekkue/source/repos/MiinaHarava/MiinaHarava/Content/vaaralippu.png</File>
+  </SourceFiles>
+</SourceFileCollection>
